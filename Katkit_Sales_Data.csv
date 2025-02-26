@@ -1,0 +1,1081 @@
+﻿Retail_ID,Channel,Segment,Date,Sale
+W_01,Wholesale,Ice Cream,1/1/2024,22542300
+W_01,Wholesale,Chocolates,1/1/2024,16804260
+W_01,Wholesale,Gift Sets,1/1/2024,1639440
+W_01,Wholesale,Ice Cream,2/1/2024,21562200
+W_01,Wholesale,Chocolates,2/1/2024,16073640
+W_01,Wholesale,Gift Sets,2/1/2024,1568160
+W_01,Wholesale,Ice Cream,3/1/2024,23032350
+W_01,Wholesale,Chocolates,3/1/2024,17169570
+W_01,Wholesale,Gift Sets,3/1/2024,1675080
+W_01,Wholesale,Ice Cream,4/1/2024,22640310
+W_01,Wholesale,Chocolates,4/1/2024,16877322
+W_01,Wholesale,Gift Sets,4/1/2024,1646568
+W_01,Wholesale,Ice Cream,5/1/2024,23424390
+W_01,Wholesale,Chocolates,5/1/2024,17461818
+W_01,Wholesale,Gift Sets,5/1/2024,1703592
+W_01,Wholesale,Ice Cream,6/1/2024,24110460
+W_01,Wholesale,Chocolates,6/1/2024,17973252
+W_01,Wholesale,Gift Sets,6/1/2024,1753488
+W_01,Wholesale,Ice Cream,7/1/2024,24600510
+W_01,Wholesale,Chocolates,7/1/2024,18338562
+W_01,Wholesale,Gift Sets,7/1/2024,1789128
+W_01,Wholesale,Ice Cream,8/1/2024,39302010
+W_01,Wholesale,Chocolates,8/1/2024,29297862
+W_01,Wholesale,Gift Sets,8/1/2024,2858328
+W_01,Wholesale,Ice Cream,9/1/2024,36557730
+W_01,Wholesale,Chocolates,9/1/2024,27252126
+W_01,Wholesale,Gift Sets,9/1/2024,2658744
+W_01,Wholesale,Ice Cream,10/1/2024,24992550
+W_01,Wholesale,Chocolates,10/1/2024,18630810
+W_01,Wholesale,Gift Sets,10/1/2024,1817640
+W_01,Wholesale,Ice Cream,11/1/2024,44202510
+W_01,Wholesale,Chocolates,11/1/2024,32950962
+W_01,Wholesale,Gift Sets,11/1/2024,3214728
+W_01,Wholesale,Ice Cream,12/1/2024,52141320
+W_01,Wholesale,Chocolates,12/1/2024,38868984
+W_01,Wholesale,Gift Sets,12/1/2024,3792096
+C_01,Wholesale,Ice Cream,1/1/2024,18792000
+C_01,Wholesale,Chocolates,1/1/2024,11901600
+C_01,Wholesale,Gift Sets,1/1/2024,626400
+C_01,Wholesale,Ice Cream,2/1/2024,17852400
+C_01,Wholesale,Chocolates,2/1/2024,11306520
+C_01,Wholesale,Gift Sets,2/1/2024,595080
+C_01,Wholesale,Ice Cream,3/1/2024,19731600
+C_01,Wholesale,Chocolates,3/1/2024,12496680
+C_01,Wholesale,Gift Sets,3/1/2024,657720
+C_01,Wholesale,Ice Cream,4/1/2024,18792000
+C_01,Wholesale,Chocolates,4/1/2024,11901600
+C_01,Wholesale,Gift Sets,4/1/2024,626400
+C_01,Wholesale,Ice Cream,5/1/2024,18270000
+C_01,Wholesale,Chocolates,5/1/2024,11571000
+C_01,Wholesale,Gift Sets,5/1/2024,609000
+C_01,Wholesale,Ice Cream,6/1/2024,19314000
+C_01,Wholesale,Chocolates,6/1/2024,12232200
+C_01,Wholesale,Gift Sets,6/1/2024,643800
+C_01,Wholesale,Ice Cream,7/1/2024,20462400
+C_01,Wholesale,Chocolates,7/1/2024,12959520
+C_01,Wholesale,Gift Sets,7/1/2024,682080
+C_01,Wholesale,Ice Cream,8/1/2024,26100000
+C_01,Wholesale,Chocolates,8/1/2024,16530000
+C_01,Wholesale,Gift Sets,8/1/2024,870000
+C_01,Wholesale,Ice Cream,9/1/2024,32468400
+C_01,Wholesale,Chocolates,9/1/2024,20563320
+C_01,Wholesale,Gift Sets,9/1/2024,1082280
+C_01,Wholesale,Ice Cream,10/1/2024,17748000
+C_01,Wholesale,Chocolates,10/1/2024,11240400
+C_01,Wholesale,Gift Sets,10/1/2024,591600
+C_01,Wholesale,Ice Cream,11/1/2024,38001600
+C_01,Wholesale,Chocolates,11/1/2024,24067680
+C_01,Wholesale,Gift Sets,11/1/2024,1266720
+C_01,Wholesale,Ice Cream,12/1/2024,43743600
+C_01,Wholesale,Chocolates,12/1/2024,27704280
+C_01,Wholesale,Gift Sets,12/1/2024,1458120
+K_01,Wholesale,Ice Cream,1/1/2024,16315920
+K_01,Wholesale,Chocolates,1/1/2024,7894800
+K_01,Wholesale,Gift Sets,1/1/2024,2105280
+K_01,Wholesale,Ice Cream,2/1/2024,15996000
+K_01,Wholesale,Chocolates,2/1/2024,7740000
+K_01,Wholesale,Gift Sets,2/1/2024,2064000
+K_01,Wholesale,Ice Cream,3/1/2024,16475880
+K_01,Wholesale,Chocolates,3/1/2024,7972200
+K_01,Wholesale,Gift Sets,3/1/2024,2125920
+K_01,Wholesale,Ice Cream,4/1/2024,16155960
+K_01,Wholesale,Chocolates,4/1/2024,7817400
+K_01,Wholesale,Gift Sets,4/1/2024,2084640
+K_01,Wholesale,Ice Cream,5/1/2024,16475880
+K_01,Wholesale,Chocolates,5/1/2024,7972200
+K_01,Wholesale,Gift Sets,5/1/2024,2125920
+K_01,Wholesale,Ice Cream,6/1/2024,16475880
+K_01,Wholesale,Chocolates,6/1/2024,7972200
+K_01,Wholesale,Gift Sets,6/1/2024,2125920
+K_01,Wholesale,Ice Cream,7/1/2024,17915520
+K_01,Wholesale,Chocolates,7/1/2024,8668800
+K_01,Wholesale,Gift Sets,7/1/2024,2311680
+K_01,Wholesale,Ice Cream,8/1/2024,30072480
+K_01,Wholesale,Chocolates,8/1/2024,14551200
+K_01,Wholesale,Gift Sets,8/1/2024,3880320
+K_01,Wholesale,Ice Cream,9/1/2024,24953760
+K_01,Wholesale,Chocolates,9/1/2024,12074400
+K_01,Wholesale,Gift Sets,9/1/2024,3219840
+K_01,Wholesale,Ice Cream,10/1/2024,16635840
+K_01,Wholesale,Chocolates,10/1/2024,8049600
+K_01,Wholesale,Gift Sets,10/1/2024,2146560
+K_01,Wholesale,Ice Cream,11/1/2024,31512120
+K_01,Wholesale,Chocolates,11/1/2024,15247800
+K_01,Wholesale,Gift Sets,11/1/2024,4066080
+K_01,Wholesale,Ice Cream,12/1/2024,30552360
+K_01,Wholesale,Chocolates,12/1/2024,14783400
+K_01,Wholesale,Gift Sets,12/1/2024,3942240
+T_01,Wholesale,Ice Cream,1/1/2024,2661120
+T_01,Wholesale,Chocolates,1/1/2024,1197504
+T_01,Wholesale,Gift Sets,1/1/2024,2794176
+T_01,Wholesale,Ice Cream,2/1/2024,2365440
+T_01,Wholesale,Chocolates,2/1/2024,1064448
+T_01,Wholesale,Gift Sets,2/1/2024,2483712
+T_01,Wholesale,Ice Cream,3/1/2024,2956800
+T_01,Wholesale,Chocolates,3/1/2024,1330560
+T_01,Wholesale,Gift Sets,3/1/2024,3104640
+T_01,Wholesale,Ice Cream,4/1/2024,2735040
+T_01,Wholesale,Chocolates,4/1/2024,1230768
+T_01,Wholesale,Gift Sets,4/1/2024,2871792
+T_01,Wholesale,Ice Cream,5/1/2024,2956800
+T_01,Wholesale,Chocolates,5/1/2024,1330560
+T_01,Wholesale,Gift Sets,5/1/2024,3104640
+T_01,Wholesale,Ice Cream,6/1/2024,3104640
+T_01,Wholesale,Chocolates,6/1/2024,1397088
+T_01,Wholesale,Gift Sets,6/1/2024,3259872
+T_01,Wholesale,Ice Cream,7/1/2024,3252480
+T_01,Wholesale,Chocolates,7/1/2024,1463616
+T_01,Wholesale,Gift Sets,7/1/2024,3415104
+T_01,Wholesale,Ice Cream,8/1/2024,5617920
+T_01,Wholesale,Chocolates,8/1/2024,2528064
+T_01,Wholesale,Gift Sets,8/1/2024,5898816
+T_01,Wholesale,Ice Cream,9/1/2024,5322240
+T_01,Wholesale,Chocolates,9/1/2024,2395008
+T_01,Wholesale,Gift Sets,9/1/2024,5588352
+T_01,Wholesale,Ice Cream,10/1/2024,3104640
+T_01,Wholesale,Chocolates,10/1/2024,1397088
+T_01,Wholesale,Gift Sets,10/1/2024,3259872
+T_01,Wholesale,Ice Cream,11/1/2024,5765760
+T_01,Wholesale,Chocolates,11/1/2024,2594592
+T_01,Wholesale,Gift Sets,11/1/2024,6054048
+T_01,Wholesale,Ice Cream,12/1/2024,5839680
+T_01,Wholesale,Chocolates,12/1/2024,2627856
+T_01,Wholesale,Gift Sets,12/1/2024,6131664
+O_01,Wholesale,Ice Cream,1/1/2024,10913760
+O_01,Wholesale,Chocolates,1/1/2024,8185320
+O_01,Wholesale,Gift Sets,1/1/2024,1888920
+O_01,Wholesale,Ice Cream,2/1/2024,10459020
+O_01,Wholesale,Chocolates,2/1/2024,7844265
+O_01,Wholesale,Gift Sets,2/1/2024,1810215
+O_01,Wholesale,Ice Cream,3/1/2024,10913760
+O_01,Wholesale,Chocolates,3/1/2024,8185320
+O_01,Wholesale,Gift Sets,3/1/2024,1888920
+O_01,Wholesale,Ice Cream,4/1/2024,11004708
+O_01,Wholesale,Chocolates,4/1/2024,8253531
+O_01,Wholesale,Gift Sets,4/1/2024,1904661
+O_01,Wholesale,Ice Cream,5/1/2024,11277552
+O_01,Wholesale,Chocolates,5/1/2024,8458164
+O_01,Wholesale,Gift Sets,5/1/2024,1951884
+O_01,Wholesale,Ice Cream,6/1/2024,12187032
+O_01,Wholesale,Chocolates,6/1/2024,9140274
+O_01,Wholesale,Gift Sets,6/1/2024,2109294
+O_01,Wholesale,Ice Cream,7/1/2024,12368928
+O_01,Wholesale,Chocolates,7/1/2024,9276696
+O_01,Wholesale,Gift Sets,7/1/2024,2140776
+O_01,Wholesale,Ice Cream,8/1/2024,16552536
+O_01,Wholesale,Chocolates,8/1/2024,12414402
+O_01,Wholesale,Gift Sets,8/1/2024,2864862
+O_01,Wholesale,Ice Cream,9/1/2024,16097796
+O_01,Wholesale,Chocolates,9/1/2024,12073347
+O_01,Wholesale,Gift Sets,9/1/2024,2786157
+O_01,Wholesale,Ice Cream,10/1/2024,11914188
+O_01,Wholesale,Chocolates,10/1/2024,8935641
+O_01,Wholesale,Gift Sets,10/1/2024,2062071
+O_01,Wholesale,Ice Cream,11/1/2024,17189172
+O_01,Wholesale,Chocolates,11/1/2024,12891879
+O_01,Wholesale,Gift Sets,11/1/2024,2975049
+O_01,Wholesale,Ice Cream,12/1/2024,24646908
+O_01,Wholesale,Chocolates,12/1/2024,18485181
+O_01,Wholesale,Gift Sets,12/1/2024,4265811
+W_01,DTC,Ice Cream,1/1/2024,19202700
+W_01,DTC,Chocolates,1/1/2024,14314740
+W_01,DTC,Gift Sets,1/1/2024,1396560
+W_01,DTC,Ice Cream,2/1/2024,18367800
+W_01,DTC,Chocolates,2/1/2024,13692360
+W_01,DTC,Gift Sets,2/1/2024,1335840
+W_01,DTC,Ice Cream,3/1/2024,19620150
+W_01,DTC,Chocolates,3/1/2024,14625930
+W_01,DTC,Gift Sets,3/1/2024,1426920
+W_01,DTC,Ice Cream,4/1/2024,19286190
+W_01,DTC,Chocolates,4/1/2024,14376978
+W_01,DTC,Gift Sets,4/1/2024,1402632
+W_01,DTC,Ice Cream,5/1/2024,19954110
+W_01,DTC,Chocolates,5/1/2024,14874882
+W_01,DTC,Gift Sets,5/1/2024,1451208
+W_01,DTC,Ice Cream,6/1/2024,20538540
+W_01,DTC,Chocolates,6/1/2024,15310548
+W_01,DTC,Gift Sets,6/1/2024,1493712
+W_01,DTC,Ice Cream,7/1/2024,20955990
+W_01,DTC,Chocolates,7/1/2024,15621738
+W_01,DTC,Gift Sets,7/1/2024,1524072
+W_01,DTC,Ice Cream,8/1/2024,33479490
+W_01,DTC,Chocolates,8/1/2024,24957438
+W_01,DTC,Gift Sets,8/1/2024,2434872
+W_01,DTC,Ice Cream,9/1/2024,31141770
+W_01,DTC,Chocolates,9/1/2024,23214774
+W_01,DTC,Gift Sets,9/1/2024,2264856
+W_01,DTC,Ice Cream,10/1/2024,21289950
+W_01,DTC,Chocolates,10/1/2024,15870690
+W_01,DTC,Gift Sets,10/1/2024,1548360
+W_01,DTC,Ice Cream,11/1/2024,37653990
+W_01,DTC,Chocolates,11/1/2024,28069338
+W_01,DTC,Gift Sets,11/1/2024,2738472
+W_01,DTC,Ice Cream,12/1/2024,44416680
+W_01,DTC,Chocolates,12/1/2024,33110616
+W_01,DTC,Gift Sets,12/1/2024,3230304
+C_01,DTC,Ice Cream,1/1/2024,13608000
+C_01,DTC,Chocolates,1/1/2024,8618400
+C_01,DTC,Gift Sets,1/1/2024,453600
+C_01,DTC,Ice Cream,2/1/2024,12927600
+C_01,DTC,Chocolates,2/1/2024,8187480
+C_01,DTC,Gift Sets,2/1/2024,430920
+C_01,DTC,Ice Cream,3/1/2024,14288400
+C_01,DTC,Chocolates,3/1/2024,9049320
+C_01,DTC,Gift Sets,3/1/2024,476280
+C_01,DTC,Ice Cream,4/1/2024,13608000
+C_01,DTC,Chocolates,4/1/2024,8618400
+C_01,DTC,Gift Sets,4/1/2024,453600
+C_01,DTC,Ice Cream,5/1/2024,13230000
+C_01,DTC,Chocolates,5/1/2024,8379000
+C_01,DTC,Gift Sets,5/1/2024,441000
+C_01,DTC,Ice Cream,6/1/2024,13986000
+C_01,DTC,Chocolates,6/1/2024,8857800
+C_01,DTC,Gift Sets,6/1/2024,466200
+C_01,DTC,Ice Cream,7/1/2024,14817600
+C_01,DTC,Chocolates,7/1/2024,9384480
+C_01,DTC,Gift Sets,7/1/2024,493920
+C_01,DTC,Ice Cream,8/1/2024,18900000
+C_01,DTC,Chocolates,8/1/2024,11970000
+C_01,DTC,Gift Sets,8/1/2024,630000
+C_01,DTC,Ice Cream,9/1/2024,23511600
+C_01,DTC,Chocolates,9/1/2024,14890680
+C_01,DTC,Gift Sets,9/1/2024,783720
+C_01,DTC,Ice Cream,10/1/2024,12852000
+C_01,DTC,Chocolates,10/1/2024,8139600
+C_01,DTC,Gift Sets,10/1/2024,428400
+C_01,DTC,Ice Cream,11/1/2024,27518400
+C_01,DTC,Chocolates,11/1/2024,17428320
+C_01,DTC,Gift Sets,11/1/2024,917280
+C_01,DTC,Ice Cream,12/1/2024,31676400
+C_01,DTC,Chocolates,12/1/2024,20061720
+C_01,DTC,Gift Sets,12/1/2024,1055880
+K_01,DTC,Ice Cream,1/1/2024,10877280
+K_01,DTC,Chocolates,1/1/2024,5263200
+K_01,DTC,Gift Sets,1/1/2024,1403520
+K_01,DTC,Ice Cream,2/1/2024,10664000
+K_01,DTC,Chocolates,2/1/2024,5160000
+K_01,DTC,Gift Sets,2/1/2024,1376000
+K_01,DTC,Ice Cream,3/1/2024,10983920
+K_01,DTC,Chocolates,3/1/2024,5314800
+K_01,DTC,Gift Sets,3/1/2024,1417280
+K_01,DTC,Ice Cream,4/1/2024,10770640
+K_01,DTC,Chocolates,4/1/2024,5211600
+K_01,DTC,Gift Sets,4/1/2024,1389760
+K_01,DTC,Ice Cream,5/1/2024,10983920
+K_01,DTC,Chocolates,5/1/2024,5314800
+K_01,DTC,Gift Sets,5/1/2024,1417280
+K_01,DTC,Ice Cream,6/1/2024,10983920
+K_01,DTC,Chocolates,6/1/2024,5314800
+K_01,DTC,Gift Sets,6/1/2024,1417280
+K_01,DTC,Ice Cream,7/1/2024,11943680
+K_01,DTC,Chocolates,7/1/2024,5779200
+K_01,DTC,Gift Sets,7/1/2024,1541120
+K_01,DTC,Ice Cream,8/1/2024,20048320
+K_01,DTC,Chocolates,8/1/2024,9700800
+K_01,DTC,Gift Sets,8/1/2024,2586880
+K_01,DTC,Ice Cream,9/1/2024,16635840
+K_01,DTC,Chocolates,9/1/2024,8049600
+K_01,DTC,Gift Sets,9/1/2024,2146560
+K_01,DTC,Ice Cream,10/1/2024,11090560
+K_01,DTC,Chocolates,10/1/2024,5366400
+K_01,DTC,Gift Sets,10/1/2024,1431040
+K_01,DTC,Ice Cream,11/1/2024,21008080
+K_01,DTC,Chocolates,11/1/2024,10165200
+K_01,DTC,Gift Sets,11/1/2024,2710720
+K_01,DTC,Ice Cream,12/1/2024,20368240
+K_01,DTC,Chocolates,12/1/2024,9855600
+K_01,DTC,Gift Sets,12/1/2024,2628160
+T_01,DTC,Ice Cream,1/1/2024,2090880
+T_01,DTC,Chocolates,1/1/2024,940896
+T_01,DTC,Gift Sets,1/1/2024,2195424
+T_01,DTC,Ice Cream,2/1/2024,1858560
+T_01,DTC,Chocolates,2/1/2024,836352
+T_01,DTC,Gift Sets,2/1/2024,1951488
+T_01,DTC,Ice Cream,3/1/2024,2323200
+T_01,DTC,Chocolates,3/1/2024,1045440
+T_01,DTC,Gift Sets,3/1/2024,2439360
+T_01,DTC,Ice Cream,4/1/2024,2148960
+T_01,DTC,Chocolates,4/1/2024,967032
+T_01,DTC,Gift Sets,4/1/2024,2256408
+T_01,DTC,Ice Cream,5/1/2024,2323200
+T_01,DTC,Chocolates,5/1/2024,1045440
+T_01,DTC,Gift Sets,5/1/2024,2439360
+T_01,DTC,Ice Cream,6/1/2024,2439360
+T_01,DTC,Chocolates,6/1/2024,1097712
+T_01,DTC,Gift Sets,6/1/2024,2561328
+T_01,DTC,Ice Cream,7/1/2024,2555520
+T_01,DTC,Chocolates,7/1/2024,1149984
+T_01,DTC,Gift Sets,7/1/2024,2683296
+T_01,DTC,Ice Cream,8/1/2024,4414080
+T_01,DTC,Chocolates,8/1/2024,1986336
+T_01,DTC,Gift Sets,8/1/2024,4634784
+T_01,DTC,Ice Cream,9/1/2024,4181760
+T_01,DTC,Chocolates,9/1/2024,1881792
+T_01,DTC,Gift Sets,9/1/2024,4390848
+T_01,DTC,Ice Cream,10/1/2024,2439360
+T_01,DTC,Chocolates,10/1/2024,1097712
+T_01,DTC,Gift Sets,10/1/2024,2561328
+T_01,DTC,Ice Cream,11/1/2024,4530240
+T_01,DTC,Chocolates,11/1/2024,2038608
+T_01,DTC,Gift Sets,11/1/2024,4756752
+T_01,DTC,Ice Cream,12/1/2024,4588320
+T_01,DTC,Chocolates,12/1/2024,2064744
+T_01,DTC,Gift Sets,12/1/2024,4817736
+O_01,DTC,Ice Cream,1/1/2024,9678240
+O_01,DTC,Chocolates,1/1/2024,7258680
+O_01,DTC,Gift Sets,1/1/2024,1675080
+O_01,DTC,Ice Cream,2/1/2024,9274980
+O_01,DTC,Chocolates,2/1/2024,6956235
+O_01,DTC,Gift Sets,2/1/2024,1605285
+O_01,DTC,Ice Cream,3/1/2024,9678240
+O_01,DTC,Chocolates,3/1/2024,7258680
+O_01,DTC,Gift Sets,3/1/2024,1675080
+O_01,DTC,Ice Cream,4/1/2024,9758892
+O_01,DTC,Chocolates,4/1/2024,7319169
+O_01,DTC,Gift Sets,4/1/2024,1689039
+O_01,DTC,Ice Cream,5/1/2024,10000848
+O_01,DTC,Chocolates,5/1/2024,7500636
+O_01,DTC,Gift Sets,5/1/2024,1730916
+O_01,DTC,Ice Cream,6/1/2024,10807368
+O_01,DTC,Chocolates,6/1/2024,8105526
+O_01,DTC,Gift Sets,6/1/2024,1870506
+O_01,DTC,Ice Cream,7/1/2024,10968672
+O_01,DTC,Chocolates,7/1/2024,8226504
+O_01,DTC,Gift Sets,7/1/2024,1898424
+O_01,DTC,Ice Cream,8/1/2024,14678664
+O_01,DTC,Chocolates,8/1/2024,11008998
+O_01,DTC,Gift Sets,8/1/2024,2540538
+O_01,DTC,Ice Cream,9/1/2024,14275404
+O_01,DTC,Chocolates,9/1/2024,10706553
+O_01,DTC,Gift Sets,9/1/2024,2470743
+O_01,DTC,Ice Cream,10/1/2024,10565412
+O_01,DTC,Chocolates,10/1/2024,7924059
+O_01,DTC,Gift Sets,10/1/2024,1828629
+O_01,DTC,Ice Cream,11/1/2024,15243228
+O_01,DTC,Chocolates,11/1/2024,11432421
+O_01,DTC,Gift Sets,11/1/2024,2638251
+O_01,DTC,Ice Cream,12/1/2024,21856692
+O_01,DTC,Chocolates,12/1/2024,16392519
+O_01,DTC,Gift Sets,12/1/2024,3782889
+W_02,Wholesale,Ice Cream,1/1/2024,9563400
+W_02,Wholesale,Chocolates,1/1/2024,7129080
+W_02,Wholesale,Gift Sets,1/1/2024,695520
+W_02,Wholesale,Ice Cream,2/1/2024,9147600
+W_02,Wholesale,Chocolates,2/1/2024,6819120
+W_02,Wholesale,Gift Sets,2/1/2024,665280
+W_02,Wholesale,Ice Cream,3/1/2024,9771300
+W_02,Wholesale,Chocolates,3/1/2024,7284060
+W_02,Wholesale,Gift Sets,3/1/2024,710640
+W_02,Wholesale,Ice Cream,4/1/2024,9604980
+W_02,Wholesale,Chocolates,4/1/2024,7160076
+W_02,Wholesale,Gift Sets,4/1/2024,698544
+W_02,Wholesale,Ice Cream,5/1/2024,9937620
+W_02,Wholesale,Chocolates,5/1/2024,7408044
+W_02,Wholesale,Gift Sets,5/1/2024,722736
+W_02,Wholesale,Ice Cream,6/1/2024,10228680
+W_02,Wholesale,Chocolates,6/1/2024,7625016
+W_02,Wholesale,Gift Sets,6/1/2024,743904
+W_02,Wholesale,Ice Cream,7/1/2024,10436580
+W_02,Wholesale,Chocolates,7/1/2024,7779996
+W_02,Wholesale,Gift Sets,7/1/2024,759024
+W_02,Wholesale,Ice Cream,8/1/2024,16673580
+W_02,Wholesale,Chocolates,8/1/2024,12429396
+W_02,Wholesale,Gift Sets,8/1/2024,1212624
+W_02,Wholesale,Ice Cream,9/1/2024,15509340
+W_02,Wholesale,Chocolates,9/1/2024,11561508
+W_02,Wholesale,Gift Sets,9/1/2024,1127952
+W_02,Wholesale,Ice Cream,10/1/2024,10602900
+W_02,Wholesale,Chocolates,10/1/2024,7903980
+W_02,Wholesale,Gift Sets,10/1/2024,771120
+W_02,Wholesale,Ice Cream,11/1/2024,18752580
+W_02,Wholesale,Chocolates,11/1/2024,13979196
+W_02,Wholesale,Gift Sets,11/1/2024,1363824
+W_02,Wholesale,Ice Cream,12/1/2024,22120560
+W_02,Wholesale,Chocolates,12/1/2024,16489872
+W_02,Wholesale,Gift Sets,12/1/2024,1608768
+C_02,Wholesale,Ice Cream,1/1/2024,8769600
+C_02,Wholesale,Chocolates,1/1/2024,5554080
+C_02,Wholesale,Gift Sets,1/1/2024,292320
+C_02,Wholesale,Ice Cream,2/1/2024,8331120
+C_02,Wholesale,Chocolates,2/1/2024,5276376
+C_02,Wholesale,Gift Sets,2/1/2024,277704
+C_02,Wholesale,Ice Cream,3/1/2024,9208080
+C_02,Wholesale,Chocolates,3/1/2024,5831784
+C_02,Wholesale,Gift Sets,3/1/2024,306936
+C_02,Wholesale,Ice Cream,4/1/2024,8769600
+C_02,Wholesale,Chocolates,4/1/2024,5554080
+C_02,Wholesale,Gift Sets,4/1/2024,292320
+C_02,Wholesale,Ice Cream,5/1/2024,8526000
+C_02,Wholesale,Chocolates,5/1/2024,5399800
+C_02,Wholesale,Gift Sets,5/1/2024,284200
+C_02,Wholesale,Ice Cream,6/1/2024,9013200
+C_02,Wholesale,Chocolates,6/1/2024,5708360
+C_02,Wholesale,Gift Sets,6/1/2024,300440
+C_02,Wholesale,Ice Cream,7/1/2024,9549120
+C_02,Wholesale,Chocolates,7/1/2024,6047776
+C_02,Wholesale,Gift Sets,7/1/2024,318304
+C_02,Wholesale,Ice Cream,8/1/2024,12180000
+C_02,Wholesale,Chocolates,8/1/2024,7714000
+C_02,Wholesale,Gift Sets,8/1/2024,406000
+C_02,Wholesale,Ice Cream,9/1/2024,15151920
+C_02,Wholesale,Chocolates,9/1/2024,9596216
+C_02,Wholesale,Gift Sets,9/1/2024,505064
+C_02,Wholesale,Ice Cream,10/1/2024,8282400
+C_02,Wholesale,Chocolates,10/1/2024,5245520
+C_02,Wholesale,Gift Sets,10/1/2024,276080
+C_02,Wholesale,Ice Cream,11/1/2024,17734080
+C_02,Wholesale,Chocolates,11/1/2024,11231584
+C_02,Wholesale,Gift Sets,11/1/2024,591136
+C_02,Wholesale,Ice Cream,12/1/2024,20413680
+C_02,Wholesale,Chocolates,12/1/2024,12928664
+C_02,Wholesale,Gift Sets,12/1/2024,680456
+K_02,Wholesale,Ice Cream,1/1/2024,3414960
+K_02,Wholesale,Chocolates,1/1/2024,1652400
+K_02,Wholesale,Gift Sets,1/1/2024,440640
+K_02,Wholesale,Ice Cream,2/1/2024,3348000
+K_02,Wholesale,Chocolates,2/1/2024,1620000
+K_02,Wholesale,Gift Sets,2/1/2024,432000
+K_02,Wholesale,Ice Cream,3/1/2024,3448440
+K_02,Wholesale,Chocolates,3/1/2024,1668600
+K_02,Wholesale,Gift Sets,3/1/2024,444960
+K_02,Wholesale,Ice Cream,4/1/2024,3381480
+K_02,Wholesale,Chocolates,4/1/2024,1636200
+K_02,Wholesale,Gift Sets,4/1/2024,436320
+K_02,Wholesale,Ice Cream,5/1/2024,3448440
+K_02,Wholesale,Chocolates,5/1/2024,1668600
+K_02,Wholesale,Gift Sets,5/1/2024,444960
+K_02,Wholesale,Ice Cream,6/1/2024,3448440
+K_02,Wholesale,Chocolates,6/1/2024,1668600
+K_02,Wholesale,Gift Sets,6/1/2024,444960
+K_02,Wholesale,Ice Cream,7/1/2024,3749760
+K_02,Wholesale,Chocolates,7/1/2024,1814400
+K_02,Wholesale,Gift Sets,7/1/2024,483840
+K_02,Wholesale,Ice Cream,8/1/2024,6294240
+K_02,Wholesale,Chocolates,8/1/2024,3045600
+K_02,Wholesale,Gift Sets,8/1/2024,812160
+K_02,Wholesale,Ice Cream,9/1/2024,5222880
+K_02,Wholesale,Chocolates,9/1/2024,2527200
+K_02,Wholesale,Gift Sets,9/1/2024,673920
+K_02,Wholesale,Ice Cream,10/1/2024,3481920
+K_02,Wholesale,Chocolates,10/1/2024,1684800
+K_02,Wholesale,Gift Sets,10/1/2024,449280
+K_02,Wholesale,Ice Cream,11/1/2024,6595560
+K_02,Wholesale,Chocolates,11/1/2024,3191400
+K_02,Wholesale,Gift Sets,11/1/2024,851040
+K_02,Wholesale,Ice Cream,12/1/2024,6394680
+K_02,Wholesale,Chocolates,12/1/2024,3094200
+K_02,Wholesale,Gift Sets,12/1/2024,825120
+T_02,Wholesale,Ice Cream,1/1/2024,1209600
+T_02,Wholesale,Chocolates,1/1/2024,544320
+T_02,Wholesale,Gift Sets,1/1/2024,1270080
+T_02,Wholesale,Ice Cream,2/1/2024,1075200
+T_02,Wholesale,Chocolates,2/1/2024,483840
+T_02,Wholesale,Gift Sets,2/1/2024,1128960
+T_02,Wholesale,Ice Cream,3/1/2024,1344000
+T_02,Wholesale,Chocolates,3/1/2024,604800
+T_02,Wholesale,Gift Sets,3/1/2024,1411200
+T_02,Wholesale,Ice Cream,4/1/2024,1243200
+T_02,Wholesale,Chocolates,4/1/2024,559440
+T_02,Wholesale,Gift Sets,4/1/2024,1305360
+T_02,Wholesale,Ice Cream,5/1/2024,1344000
+T_02,Wholesale,Chocolates,5/1/2024,604800
+T_02,Wholesale,Gift Sets,5/1/2024,1411200
+T_02,Wholesale,Ice Cream,6/1/2024,1411200
+T_02,Wholesale,Chocolates,6/1/2024,635040
+T_02,Wholesale,Gift Sets,6/1/2024,1481760
+T_02,Wholesale,Ice Cream,7/1/2024,1478400
+T_02,Wholesale,Chocolates,7/1/2024,665280
+T_02,Wholesale,Gift Sets,7/1/2024,1552320
+T_02,Wholesale,Ice Cream,8/1/2024,2553600
+T_02,Wholesale,Chocolates,8/1/2024,1149120
+T_02,Wholesale,Gift Sets,8/1/2024,2681280
+T_02,Wholesale,Ice Cream,9/1/2024,2419200
+T_02,Wholesale,Chocolates,9/1/2024,1088640
+T_02,Wholesale,Gift Sets,9/1/2024,2540160
+T_02,Wholesale,Ice Cream,10/1/2024,1411200
+T_02,Wholesale,Chocolates,10/1/2024,635040
+T_02,Wholesale,Gift Sets,10/1/2024,1481760
+T_02,Wholesale,Ice Cream,11/1/2024,2620800
+T_02,Wholesale,Chocolates,11/1/2024,1179360
+T_02,Wholesale,Gift Sets,11/1/2024,2751840
+T_02,Wholesale,Ice Cream,12/1/2024,2654400
+T_02,Wholesale,Chocolates,12/1/2024,1194480
+T_02,Wholesale,Gift Sets,12/1/2024,2787120
+O_02,Wholesale,Ice Cream,1/1/2024,4960800
+O_02,Wholesale,Chocolates,1/1/2024,3720600
+O_02,Wholesale,Gift Sets,1/1/2024,858600
+O_02,Wholesale,Ice Cream,2/1/2024,4754100
+O_02,Wholesale,Chocolates,2/1/2024,3565575
+O_02,Wholesale,Gift Sets,2/1/2024,822825
+O_02,Wholesale,Ice Cream,3/1/2024,4960800
+O_02,Wholesale,Chocolates,3/1/2024,3720600
+O_02,Wholesale,Gift Sets,3/1/2024,858600
+O_02,Wholesale,Ice Cream,4/1/2024,5002140
+O_02,Wholesale,Chocolates,4/1/2024,3751605
+O_02,Wholesale,Gift Sets,4/1/2024,865755
+O_02,Wholesale,Ice Cream,5/1/2024,5126160
+O_02,Wholesale,Chocolates,5/1/2024,3844620
+O_02,Wholesale,Gift Sets,5/1/2024,887220
+O_02,Wholesale,Ice Cream,6/1/2024,5539560
+O_02,Wholesale,Chocolates,6/1/2024,4154670
+O_02,Wholesale,Gift Sets,6/1/2024,958770
+O_02,Wholesale,Ice Cream,7/1/2024,5622240
+O_02,Wholesale,Chocolates,7/1/2024,4216680
+O_02,Wholesale,Gift Sets,7/1/2024,973080
+O_02,Wholesale,Ice Cream,8/1/2024,7523880
+O_02,Wholesale,Chocolates,8/1/2024,5642910
+O_02,Wholesale,Gift Sets,8/1/2024,1302210
+O_02,Wholesale,Ice Cream,9/1/2024,7317180
+O_02,Wholesale,Chocolates,9/1/2024,5487885
+O_02,Wholesale,Gift Sets,9/1/2024,1266435
+O_02,Wholesale,Ice Cream,10/1/2024,5415540
+O_02,Wholesale,Chocolates,10/1/2024,4061655
+O_02,Wholesale,Gift Sets,10/1/2024,937305
+O_02,Wholesale,Ice Cream,11/1/2024,7813260
+O_02,Wholesale,Chocolates,11/1/2024,5859945
+O_02,Wholesale,Gift Sets,11/1/2024,1352295
+O_02,Wholesale,Ice Cream,12/1/2024,11203140
+O_02,Wholesale,Chocolates,12/1/2024,8402355
+O_02,Wholesale,Gift Sets,12/1/2024,1939005
+W_02,DTC,Ice Cream,1/1/2024,8146600
+W_02,DTC,Chocolates,1/1/2024,6072920
+W_02,DTC,Gift Sets,1/1/2024,592480
+W_02,DTC,Ice Cream,2/1/2024,7792400
+W_02,DTC,Chocolates,2/1/2024,5808880
+W_02,DTC,Gift Sets,2/1/2024,566720
+W_02,DTC,Ice Cream,3/1/2024,8323700
+W_02,DTC,Chocolates,3/1/2024,6204940
+W_02,DTC,Gift Sets,3/1/2024,605360
+W_02,DTC,Ice Cream,4/1/2024,8182020
+W_02,DTC,Chocolates,4/1/2024,6099324
+W_02,DTC,Gift Sets,4/1/2024,595056
+W_02,DTC,Ice Cream,5/1/2024,8465380
+W_02,DTC,Chocolates,5/1/2024,6310556
+W_02,DTC,Gift Sets,5/1/2024,615664
+W_02,DTC,Ice Cream,6/1/2024,8713320
+W_02,DTC,Chocolates,6/1/2024,6495384
+W_02,DTC,Gift Sets,6/1/2024,633696
+W_02,DTC,Ice Cream,7/1/2024,8890420
+W_02,DTC,Chocolates,7/1/2024,6627404
+W_02,DTC,Gift Sets,7/1/2024,646576
+W_02,DTC,Ice Cream,8/1/2024,14203420
+W_02,DTC,Chocolates,8/1/2024,10588004
+W_02,DTC,Gift Sets,8/1/2024,1032976
+W_02,DTC,Ice Cream,9/1/2024,13211660
+W_02,DTC,Chocolates,9/1/2024,9848692
+W_02,DTC,Gift Sets,9/1/2024,960848
+W_02,DTC,Ice Cream,10/1/2024,9032100
+W_02,DTC,Chocolates,10/1/2024,6733020
+W_02,DTC,Gift Sets,10/1/2024,656880
+W_02,DTC,Ice Cream,11/1/2024,15974420
+W_02,DTC,Chocolates,11/1/2024,11908204
+W_02,DTC,Gift Sets,11/1/2024,1161776
+W_02,DTC,Ice Cream,12/1/2024,18843440
+W_02,DTC,Chocolates,12/1/2024,14046928
+W_02,DTC,Gift Sets,12/1/2024,1370432
+C_02,DTC,Ice Cream,1/1/2024,6350400
+C_02,DTC,Chocolates,1/1/2024,4021920
+C_02,DTC,Gift Sets,1/1/2024,211680
+C_02,DTC,Ice Cream,2/1/2024,6032880
+C_02,DTC,Chocolates,2/1/2024,3820824
+C_02,DTC,Gift Sets,2/1/2024,201096
+C_02,DTC,Ice Cream,3/1/2024,6667920
+C_02,DTC,Chocolates,3/1/2024,4223016
+C_02,DTC,Gift Sets,3/1/2024,222264
+C_02,DTC,Ice Cream,4/1/2024,6350400
+C_02,DTC,Chocolates,4/1/2024,4021920
+C_02,DTC,Gift Sets,4/1/2024,211680
+C_02,DTC,Ice Cream,5/1/2024,6174000
+C_02,DTC,Chocolates,5/1/2024,3910200
+C_02,DTC,Gift Sets,5/1/2024,205800
+C_02,DTC,Ice Cream,6/1/2024,6526800
+C_02,DTC,Chocolates,6/1/2024,4133640
+C_02,DTC,Gift Sets,6/1/2024,217560
+C_02,DTC,Ice Cream,7/1/2024,6914880
+C_02,DTC,Chocolates,7/1/2024,4379424
+C_02,DTC,Gift Sets,7/1/2024,230496
+C_02,DTC,Ice Cream,8/1/2024,8820000
+C_02,DTC,Chocolates,8/1/2024,5586000
+C_02,DTC,Gift Sets,8/1/2024,294000
+C_02,DTC,Ice Cream,9/1/2024,10972080
+C_02,DTC,Chocolates,9/1/2024,6948984
+C_02,DTC,Gift Sets,9/1/2024,365736
+C_02,DTC,Ice Cream,10/1/2024,5997600
+C_02,DTC,Chocolates,10/1/2024,3798480
+C_02,DTC,Gift Sets,10/1/2024,199920
+C_02,DTC,Ice Cream,11/1/2024,12841920
+C_02,DTC,Chocolates,11/1/2024,8133216
+C_02,DTC,Gift Sets,11/1/2024,428064
+C_02,DTC,Ice Cream,12/1/2024,14782320
+C_02,DTC,Chocolates,12/1/2024,9362136
+C_02,DTC,Gift Sets,12/1/2024,492744
+K_02,DTC,Ice Cream,1/1/2024,2276640
+K_02,DTC,Chocolates,1/1/2024,1101600
+K_02,DTC,Gift Sets,1/1/2024,293760
+K_02,DTC,Ice Cream,2/1/2024,2232000
+K_02,DTC,Chocolates,2/1/2024,1080000
+K_02,DTC,Gift Sets,2/1/2024,288000
+K_02,DTC,Ice Cream,3/1/2024,2298960
+K_02,DTC,Chocolates,3/1/2024,1112400
+K_02,DTC,Gift Sets,3/1/2024,296640
+K_02,DTC,Ice Cream,4/1/2024,2254320
+K_02,DTC,Chocolates,4/1/2024,1090800
+K_02,DTC,Gift Sets,4/1/2024,290880
+K_02,DTC,Ice Cream,5/1/2024,2298960
+K_02,DTC,Chocolates,5/1/2024,1112400
+K_02,DTC,Gift Sets,5/1/2024,296640
+K_02,DTC,Ice Cream,6/1/2024,2298960
+K_02,DTC,Chocolates,6/1/2024,1112400
+K_02,DTC,Gift Sets,6/1/2024,296640
+K_02,DTC,Ice Cream,7/1/2024,2499840
+K_02,DTC,Chocolates,7/1/2024,1209600
+K_02,DTC,Gift Sets,7/1/2024,322560
+K_02,DTC,Ice Cream,8/1/2024,4196160
+K_02,DTC,Chocolates,8/1/2024,2030400
+K_02,DTC,Gift Sets,8/1/2024,541440
+K_02,DTC,Ice Cream,9/1/2024,3481920
+K_02,DTC,Chocolates,9/1/2024,1684800
+K_02,DTC,Gift Sets,9/1/2024,449280
+K_02,DTC,Ice Cream,10/1/2024,2321280
+K_02,DTC,Chocolates,10/1/2024,1123200
+K_02,DTC,Gift Sets,10/1/2024,299520
+K_02,DTC,Ice Cream,11/1/2024,4397040
+K_02,DTC,Chocolates,11/1/2024,2127600
+K_02,DTC,Gift Sets,11/1/2024,567360
+K_02,DTC,Ice Cream,12/1/2024,4263120
+K_02,DTC,Chocolates,12/1/2024,2062800
+K_02,DTC,Gift Sets,12/1/2024,550080
+T_02,DTC,Ice Cream,1/1/2024,950400
+T_02,DTC,Chocolates,1/1/2024,427680
+T_02,DTC,Gift Sets,1/1/2024,997920
+T_02,DTC,Ice Cream,2/1/2024,844800
+T_02,DTC,Chocolates,2/1/2024,380160
+T_02,DTC,Gift Sets,2/1/2024,887040
+T_02,DTC,Ice Cream,3/1/2024,1056000
+T_02,DTC,Chocolates,3/1/2024,475200
+T_02,DTC,Gift Sets,3/1/2024,1108800
+T_02,DTC,Ice Cream,4/1/2024,976800
+T_02,DTC,Chocolates,4/1/2024,439560
+T_02,DTC,Gift Sets,4/1/2024,1025640
+T_02,DTC,Ice Cream,5/1/2024,1056000
+T_02,DTC,Chocolates,5/1/2024,475200
+T_02,DTC,Gift Sets,5/1/2024,1108800
+T_02,DTC,Ice Cream,6/1/2024,1108800
+T_02,DTC,Chocolates,6/1/2024,498960
+T_02,DTC,Gift Sets,6/1/2024,1164240
+T_02,DTC,Ice Cream,7/1/2024,1161600
+T_02,DTC,Chocolates,7/1/2024,522720
+T_02,DTC,Gift Sets,7/1/2024,1219680
+T_02,DTC,Ice Cream,8/1/2024,2006400
+T_02,DTC,Chocolates,8/1/2024,902880
+T_02,DTC,Gift Sets,8/1/2024,2106720
+T_02,DTC,Ice Cream,9/1/2024,1900800
+T_02,DTC,Chocolates,9/1/2024,855360
+T_02,DTC,Gift Sets,9/1/2024,1995840
+T_02,DTC,Ice Cream,10/1/2024,1108800
+T_02,DTC,Chocolates,10/1/2024,498960
+T_02,DTC,Gift Sets,10/1/2024,1164240
+T_02,DTC,Ice Cream,11/1/2024,2059200
+T_02,DTC,Chocolates,11/1/2024,926640
+T_02,DTC,Gift Sets,11/1/2024,2162160
+T_02,DTC,Ice Cream,12/1/2024,2085600
+T_02,DTC,Chocolates,12/1/2024,938520
+T_02,DTC,Gift Sets,12/1/2024,2189880
+O_02,DTC,Ice Cream,1/1/2024,4399200
+O_02,DTC,Chocolates,1/1/2024,3299400
+O_02,DTC,Gift Sets,1/1/2024,761400
+O_02,DTC,Ice Cream,2/1/2024,4215900
+O_02,DTC,Chocolates,2/1/2024,3161925
+O_02,DTC,Gift Sets,2/1/2024,729675
+O_02,DTC,Ice Cream,3/1/2024,4399200
+O_02,DTC,Chocolates,3/1/2024,3299400
+O_02,DTC,Gift Sets,3/1/2024,761400
+O_02,DTC,Ice Cream,4/1/2024,4435860
+O_02,DTC,Chocolates,4/1/2024,3326895
+O_02,DTC,Gift Sets,4/1/2024,767745
+O_02,DTC,Ice Cream,5/1/2024,4545840
+O_02,DTC,Chocolates,5/1/2024,3409380
+O_02,DTC,Gift Sets,5/1/2024,786780
+O_02,DTC,Ice Cream,6/1/2024,4912440
+O_02,DTC,Chocolates,6/1/2024,3684330
+O_02,DTC,Gift Sets,6/1/2024,850230
+O_02,DTC,Ice Cream,7/1/2024,4985760
+O_02,DTC,Chocolates,7/1/2024,3739320
+O_02,DTC,Gift Sets,7/1/2024,862920
+O_02,DTC,Ice Cream,8/1/2024,6672120
+O_02,DTC,Chocolates,8/1/2024,5004090
+O_02,DTC,Gift Sets,8/1/2024,1154790
+O_02,DTC,Ice Cream,9/1/2024,6488820
+O_02,DTC,Chocolates,9/1/2024,4866615
+O_02,DTC,Gift Sets,9/1/2024,1123065
+O_02,DTC,Ice Cream,10/1/2024,4802460
+O_02,DTC,Chocolates,10/1/2024,3601845
+O_02,DTC,Gift Sets,10/1/2024,831195
+O_02,DTC,Ice Cream,11/1/2024,6928740
+O_02,DTC,Chocolates,11/1/2024,5196555
+O_02,DTC,Gift Sets,11/1/2024,1199205
+O_02,DTC,Ice Cream,12/1/2024,9934860
+O_02,DTC,Chocolates,12/1/2024,7451145
+O_02,DTC,Gift Sets,12/1/2024,1719495
+W_03,Wholesale,Ice Cream,1/1/2024,36204300
+W_03,Wholesale,Chocolates,1/1/2024,26988660
+W_03,Wholesale,Gift Sets,1/1/2024,2633040
+W_03,Wholesale,Ice Cream,2/1/2024,34630200
+W_03,Wholesale,Chocolates,2/1/2024,25815240
+W_03,Wholesale,Gift Sets,2/1/2024,2518560
+W_03,Wholesale,Ice Cream,3/1/2024,36991350
+W_03,Wholesale,Chocolates,3/1/2024,27575370
+W_03,Wholesale,Gift Sets,3/1/2024,2690280
+W_03,Wholesale,Ice Cream,4/1/2024,36361710
+W_03,Wholesale,Chocolates,4/1/2024,27106002
+W_03,Wholesale,Gift Sets,4/1/2024,2644488
+W_03,Wholesale,Ice Cream,5/1/2024,37620990
+W_03,Wholesale,Chocolates,5/1/2024,28044738
+W_03,Wholesale,Gift Sets,5/1/2024,2736072
+W_03,Wholesale,Ice Cream,6/1/2024,38722860
+W_03,Wholesale,Chocolates,6/1/2024,28866132
+W_03,Wholesale,Gift Sets,6/1/2024,2816208
+W_03,Wholesale,Ice Cream,7/1/2024,39509910
+W_03,Wholesale,Chocolates,7/1/2024,29452842
+W_03,Wholesale,Gift Sets,7/1/2024,2873448
+W_03,Wholesale,Ice Cream,8/1/2024,63121410
+W_03,Wholesale,Chocolates,8/1/2024,47054142
+W_03,Wholesale,Gift Sets,8/1/2024,4590648
+W_03,Wholesale,Ice Cream,9/1/2024,58713930
+W_03,Wholesale,Chocolates,9/1/2024,43768566
+W_03,Wholesale,Gift Sets,9/1/2024,4270104
+W_03,Wholesale,Ice Cream,10/1/2024,40139550
+W_03,Wholesale,Chocolates,10/1/2024,29922210
+W_03,Wholesale,Gift Sets,10/1/2024,2919240
+W_03,Wholesale,Ice Cream,11/1/2024,70991910
+W_03,Wholesale,Chocolates,11/1/2024,52921242
+W_03,Wholesale,Gift Sets,11/1/2024,5163048
+W_03,Wholesale,Ice Cream,12/1/2024,83742120
+W_03,Wholesale,Chocolates,12/1/2024,62425944
+W_03,Wholesale,Gift Sets,12/1/2024,6090336
+C_03,Wholesale,Ice Cream,1/1/2024,35078400
+C_03,Wholesale,Chocolates,1/1/2024,22216320
+C_03,Wholesale,Gift Sets,1/1/2024,1169280
+C_03,Wholesale,Ice Cream,2/1/2024,33324480
+C_03,Wholesale,Chocolates,2/1/2024,21105504
+C_03,Wholesale,Gift Sets,2/1/2024,1110816
+C_03,Wholesale,Ice Cream,3/1/2024,36832320
+C_03,Wholesale,Chocolates,3/1/2024,23327136
+C_03,Wholesale,Gift Sets,3/1/2024,1227744
+C_03,Wholesale,Ice Cream,4/1/2024,35078400
+C_03,Wholesale,Chocolates,4/1/2024,22216320
+C_03,Wholesale,Gift Sets,4/1/2024,1169280
+C_03,Wholesale,Ice Cream,5/1/2024,34104000
+C_03,Wholesale,Chocolates,5/1/2024,21599200
+C_03,Wholesale,Gift Sets,5/1/2024,1136800
+C_03,Wholesale,Ice Cream,6/1/2024,36052800
+C_03,Wholesale,Chocolates,6/1/2024,22833440
+C_03,Wholesale,Gift Sets,6/1/2024,1201760
+C_03,Wholesale,Ice Cream,7/1/2024,38196480
+C_03,Wholesale,Chocolates,7/1/2024,24191104
+C_03,Wholesale,Gift Sets,7/1/2024,1273216
+C_03,Wholesale,Ice Cream,8/1/2024,48720000
+C_03,Wholesale,Chocolates,8/1/2024,30856000
+C_03,Wholesale,Gift Sets,8/1/2024,1624000
+C_03,Wholesale,Ice Cream,9/1/2024,60607680
+C_03,Wholesale,Chocolates,9/1/2024,38384864
+C_03,Wholesale,Gift Sets,9/1/2024,2020256
+C_03,Wholesale,Ice Cream,10/1/2024,33129600
+C_03,Wholesale,Chocolates,10/1/2024,20982080
+C_03,Wholesale,Gift Sets,10/1/2024,1104320
+C_03,Wholesale,Ice Cream,11/1/2024,70936320
+C_03,Wholesale,Chocolates,11/1/2024,44926336
+C_03,Wholesale,Gift Sets,11/1/2024,2364544
+C_03,Wholesale,Ice Cream,12/1/2024,81654720
+C_03,Wholesale,Chocolates,12/1/2024,51714656
+C_03,Wholesale,Gift Sets,12/1/2024,2721824
+K_03,Wholesale,Ice Cream,1/1/2024,18213120
+K_03,Wholesale,Chocolates,1/1/2024,8812800
+K_03,Wholesale,Gift Sets,1/1/2024,2350080
+K_03,Wholesale,Ice Cream,2/1/2024,17856000
+K_03,Wholesale,Chocolates,2/1/2024,8640000
+K_03,Wholesale,Gift Sets,2/1/2024,2304000
+K_03,Wholesale,Ice Cream,3/1/2024,18391680
+K_03,Wholesale,Chocolates,3/1/2024,8899200
+K_03,Wholesale,Gift Sets,3/1/2024,2373120
+K_03,Wholesale,Ice Cream,4/1/2024,18034560
+K_03,Wholesale,Chocolates,4/1/2024,8726400
+K_03,Wholesale,Gift Sets,4/1/2024,2327040
+K_03,Wholesale,Ice Cream,5/1/2024,18391680
+K_03,Wholesale,Chocolates,5/1/2024,8899200
+K_03,Wholesale,Gift Sets,5/1/2024,2373120
+K_03,Wholesale,Ice Cream,6/1/2024,18391680
+K_03,Wholesale,Chocolates,6/1/2024,8899200
+K_03,Wholesale,Gift Sets,6/1/2024,2373120
+K_03,Wholesale,Ice Cream,7/1/2024,19998720
+K_03,Wholesale,Chocolates,7/1/2024,9676800
+K_03,Wholesale,Gift Sets,7/1/2024,2580480
+K_03,Wholesale,Ice Cream,8/1/2024,33569280
+K_03,Wholesale,Chocolates,8/1/2024,16243200
+K_03,Wholesale,Gift Sets,8/1/2024,4331520
+K_03,Wholesale,Ice Cream,9/1/2024,27855360
+K_03,Wholesale,Chocolates,9/1/2024,13478400
+K_03,Wholesale,Gift Sets,9/1/2024,3594240
+K_03,Wholesale,Ice Cream,10/1/2024,18570240
+K_03,Wholesale,Chocolates,10/1/2024,8985600
+K_03,Wholesale,Gift Sets,10/1/2024,2396160
+K_03,Wholesale,Ice Cream,11/1/2024,35176320
+K_03,Wholesale,Chocolates,11/1/2024,17020800
+K_03,Wholesale,Gift Sets,11/1/2024,4538880
+K_03,Wholesale,Ice Cream,12/1/2024,34104960
+K_03,Wholesale,Chocolates,12/1/2024,16502400
+K_03,Wholesale,Gift Sets,12/1/2024,4400640
+T_03,Wholesale,Ice Cream,1/1/2024,4193280
+T_03,Wholesale,Chocolates,1/1/2024,1886976
+T_03,Wholesale,Gift Sets,1/1/2024,4402944
+T_03,Wholesale,Ice Cream,2/1/2024,3727360
+T_03,Wholesale,Chocolates,2/1/2024,1677312
+T_03,Wholesale,Gift Sets,2/1/2024,3913728
+T_03,Wholesale,Ice Cream,3/1/2024,4659200
+T_03,Wholesale,Chocolates,3/1/2024,2096640
+T_03,Wholesale,Gift Sets,3/1/2024,4892160
+T_03,Wholesale,Ice Cream,4/1/2024,4309760
+T_03,Wholesale,Chocolates,4/1/2024,1939392
+T_03,Wholesale,Gift Sets,4/1/2024,4525248
+T_03,Wholesale,Ice Cream,5/1/2024,4659200
+T_03,Wholesale,Chocolates,5/1/2024,2096640
+T_03,Wholesale,Gift Sets,5/1/2024,4892160
+T_03,Wholesale,Ice Cream,6/1/2024,4892160
+T_03,Wholesale,Chocolates,6/1/2024,2201472
+T_03,Wholesale,Gift Sets,6/1/2024,5136768
+T_03,Wholesale,Ice Cream,7/1/2024,5125120
+T_03,Wholesale,Chocolates,7/1/2024,2306304
+T_03,Wholesale,Gift Sets,7/1/2024,5381376
+T_03,Wholesale,Ice Cream,8/1/2024,8852480
+T_03,Wholesale,Chocolates,8/1/2024,3983616
+T_03,Wholesale,Gift Sets,8/1/2024,9295104
+T_03,Wholesale,Ice Cream,9/1/2024,8386560
+T_03,Wholesale,Chocolates,9/1/2024,3773952
+T_03,Wholesale,Gift Sets,9/1/2024,8805888
+T_03,Wholesale,Ice Cream,10/1/2024,4892160
+T_03,Wholesale,Chocolates,10/1/2024,2201472
+T_03,Wholesale,Gift Sets,10/1/2024,5136768
+T_03,Wholesale,Ice Cream,11/1/2024,9085440
+T_03,Wholesale,Chocolates,11/1/2024,4088448
+T_03,Wholesale,Gift Sets,11/1/2024,9539712
+T_03,Wholesale,Ice Cream,12/1/2024,9201920
+T_03,Wholesale,Chocolates,12/1/2024,4140864
+T_03,Wholesale,Gift Sets,12/1/2024,9662016
+O_03,Wholesale,Ice Cream,1/1/2024,17197440
+O_03,Wholesale,Chocolates,1/1/2024,12898080
+O_03,Wholesale,Gift Sets,1/1/2024,2976480
+O_03,Wholesale,Ice Cream,2/1/2024,16480880
+O_03,Wholesale,Chocolates,2/1/2024,12360660
+O_03,Wholesale,Gift Sets,2/1/2024,2852460
+O_03,Wholesale,Ice Cream,3/1/2024,17197440
+O_03,Wholesale,Chocolates,3/1/2024,12898080
+O_03,Wholesale,Gift Sets,3/1/2024,2976480
+O_03,Wholesale,Ice Cream,4/1/2024,17340752
+O_03,Wholesale,Chocolates,4/1/2024,13005564
+O_03,Wholesale,Gift Sets,4/1/2024,3001284
+O_03,Wholesale,Ice Cream,5/1/2024,17770688
+O_03,Wholesale,Chocolates,5/1/2024,13328016
+O_03,Wholesale,Gift Sets,5/1/2024,3075696
+O_03,Wholesale,Ice Cream,6/1/2024,19203808
+O_03,Wholesale,Chocolates,6/1/2024,14402856
+O_03,Wholesale,Gift Sets,6/1/2024,3323736
+O_03,Wholesale,Ice Cream,7/1/2024,19490432
+O_03,Wholesale,Chocolates,7/1/2024,14617824
+O_03,Wholesale,Gift Sets,7/1/2024,3373344
+O_03,Wholesale,Ice Cream,8/1/2024,26082784
+O_03,Wholesale,Chocolates,8/1/2024,19562088
+O_03,Wholesale,Gift Sets,8/1/2024,4514328
+O_03,Wholesale,Ice Cream,9/1/2024,25366224
+O_03,Wholesale,Chocolates,9/1/2024,19024668
+O_03,Wholesale,Gift Sets,9/1/2024,4390308
+O_03,Wholesale,Ice Cream,10/1/2024,18773872
+O_03,Wholesale,Chocolates,10/1/2024,14080404
+O_03,Wholesale,Gift Sets,10/1/2024,3249324
+O_03,Wholesale,Ice Cream,11/1/2024,27085968
+O_03,Wholesale,Chocolates,11/1/2024,20314476
+O_03,Wholesale,Gift Sets,11/1/2024,4687956
+O_03,Wholesale,Ice Cream,12/1/2024,38837552
+O_03,Wholesale,Chocolates,12/1/2024,29128164
+O_03,Wholesale,Gift Sets,12/1/2024,6721884
+W_03,DTC,Ice Cream,1/1/2024,30840700
+W_03,DTC,Chocolates,1/1/2024,22990340
+W_03,DTC,Gift Sets,1/1/2024,2242960
+W_03,DTC,Ice Cream,2/1/2024,29499800
+W_03,DTC,Chocolates,2/1/2024,21990760
+W_03,DTC,Gift Sets,2/1/2024,2145440
+W_03,DTC,Ice Cream,3/1/2024,31511150
+W_03,DTC,Chocolates,3/1/2024,23490130
+W_03,DTC,Gift Sets,3/1/2024,2291720
+W_03,DTC,Ice Cream,4/1/2024,30974790
+W_03,DTC,Chocolates,4/1/2024,23090298
+W_03,DTC,Gift Sets,4/1/2024,2252712
+W_03,DTC,Ice Cream,5/1/2024,32047510
+W_03,DTC,Chocolates,5/1/2024,23889962
+W_03,DTC,Gift Sets,5/1/2024,2330728
+W_03,DTC,Ice Cream,6/1/2024,32986140
+W_03,DTC,Chocolates,6/1/2024,24589668
+W_03,DTC,Gift Sets,6/1/2024,2398992
+W_03,DTC,Ice Cream,7/1/2024,33656590
+W_03,DTC,Chocolates,7/1/2024,25089458
+W_03,DTC,Gift Sets,7/1/2024,2447752
+W_03,DTC,Ice Cream,8/1/2024,53770090
+W_03,DTC,Chocolates,8/1/2024,40083158
+W_03,DTC,Gift Sets,8/1/2024,3910552
+W_03,DTC,Ice Cream,9/1/2024,50015570
+W_03,DTC,Chocolates,9/1/2024,37284334
+W_03,DTC,Gift Sets,9/1/2024,3637496
+W_03,DTC,Ice Cream,10/1/2024,34192950
+W_03,DTC,Chocolates,10/1/2024,25489290
+W_03,DTC,Gift Sets,10/1/2024,2486760
+W_03,DTC,Ice Cream,11/1/2024,60474590
+W_03,DTC,Chocolates,11/1/2024,45081058
+W_03,DTC,Gift Sets,11/1/2024,4398152
+W_03,DTC,Ice Cream,12/1/2024,71335880
+W_03,DTC,Chocolates,12/1/2024,53177656
+W_03,DTC,Gift Sets,12/1/2024,5188064
+C_03,DTC,Ice Cream,1/1/2024,25401600
+C_03,DTC,Chocolates,1/1/2024,16087680
+C_03,DTC,Gift Sets,1/1/2024,846720
+C_03,DTC,Ice Cream,2/1/2024,24131520
+C_03,DTC,Chocolates,2/1/2024,15283296
+C_03,DTC,Gift Sets,2/1/2024,804384
+C_03,DTC,Ice Cream,3/1/2024,26671680
+C_03,DTC,Chocolates,3/1/2024,16892064
+C_03,DTC,Gift Sets,3/1/2024,889056
+C_03,DTC,Ice Cream,4/1/2024,25401600
+C_03,DTC,Chocolates,4/1/2024,16087680
+C_03,DTC,Gift Sets,4/1/2024,846720
+C_03,DTC,Ice Cream,5/1/2024,24696000
+C_03,DTC,Chocolates,5/1/2024,15640800
+C_03,DTC,Gift Sets,5/1/2024,823200
+C_03,DTC,Ice Cream,6/1/2024,26107200
+C_03,DTC,Chocolates,6/1/2024,16534560
+C_03,DTC,Gift Sets,6/1/2024,870240
+C_03,DTC,Ice Cream,7/1/2024,27659520
+C_03,DTC,Chocolates,7/1/2024,17517696
+C_03,DTC,Gift Sets,7/1/2024,921984
+C_03,DTC,Ice Cream,8/1/2024,35280000
+C_03,DTC,Chocolates,8/1/2024,22344000
+C_03,DTC,Gift Sets,8/1/2024,1176000
+C_03,DTC,Ice Cream,9/1/2024,43888320
+C_03,DTC,Chocolates,9/1/2024,27795936
+C_03,DTC,Gift Sets,9/1/2024,1462944
+C_03,DTC,Ice Cream,10/1/2024,23990400
+C_03,DTC,Chocolates,10/1/2024,15193920
+C_03,DTC,Gift Sets,10/1/2024,799680
+C_03,DTC,Ice Cream,11/1/2024,51367680
+C_03,DTC,Chocolates,11/1/2024,32532864
+C_03,DTC,Gift Sets,11/1/2024,1712256
+C_03,DTC,Ice Cream,12/1/2024,59129280
+C_03,DTC,Chocolates,12/1/2024,37448544
+C_03,DTC,Gift Sets,12/1/2024,1970976
+K_03,DTC,Ice Cream,1/1/2024,12142080
+K_03,DTC,Chocolates,1/1/2024,5875200
+K_03,DTC,Gift Sets,1/1/2024,1566720
+K_03,DTC,Ice Cream,2/1/2024,11904000
+K_03,DTC,Chocolates,2/1/2024,5760000
+K_03,DTC,Gift Sets,2/1/2024,1536000
+K_03,DTC,Ice Cream,3/1/2024,12261120
+K_03,DTC,Chocolates,3/1/2024,5932800
+K_03,DTC,Gift Sets,3/1/2024,1582080
+K_03,DTC,Ice Cream,4/1/2024,12023040
+K_03,DTC,Chocolates,4/1/2024,5817600
+K_03,DTC,Gift Sets,4/1/2024,1551360
+K_03,DTC,Ice Cream,5/1/2024,12261120
+K_03,DTC,Chocolates,5/1/2024,5932800
+K_03,DTC,Gift Sets,5/1/2024,1582080
+K_03,DTC,Ice Cream,6/1/2024,12261120
+K_03,DTC,Chocolates,6/1/2024,5932800
+K_03,DTC,Gift Sets,6/1/2024,1582080
+K_03,DTC,Ice Cream,7/1/2024,13332480
+K_03,DTC,Chocolates,7/1/2024,6451200
+K_03,DTC,Gift Sets,7/1/2024,1720320
+K_03,DTC,Ice Cream,8/1/2024,22379520
+K_03,DTC,Chocolates,8/1/2024,10828800
+K_03,DTC,Gift Sets,8/1/2024,2887680
+K_03,DTC,Ice Cream,9/1/2024,18570240
+K_03,DTC,Chocolates,9/1/2024,8985600
+K_03,DTC,Gift Sets,9/1/2024,2396160
+K_03,DTC,Ice Cream,10/1/2024,12380160
+K_03,DTC,Chocolates,10/1/2024,5990400
+K_03,DTC,Gift Sets,10/1/2024,1597440
+K_03,DTC,Ice Cream,11/1/2024,23450880
+K_03,DTC,Chocolates,11/1/2024,11347200
+K_03,DTC,Gift Sets,11/1/2024,3025920
+K_03,DTC,Ice Cream,12/1/2024,22736640
+K_03,DTC,Chocolates,12/1/2024,11001600
+K_03,DTC,Gift Sets,12/1/2024,2933760
+T_03,DTC,Ice Cream,1/1/2024,3294720
+T_03,DTC,Chocolates,1/1/2024,1482624
+T_03,DTC,Gift Sets,1/1/2024,3459456
+T_03,DTC,Ice Cream,2/1/2024,2928640
+T_03,DTC,Chocolates,2/1/2024,1317888
+T_03,DTC,Gift Sets,2/1/2024,3075072
+T_03,DTC,Ice Cream,3/1/2024,3660800
+T_03,DTC,Chocolates,3/1/2024,1647360
+T_03,DTC,Gift Sets,3/1/2024,3843840
+T_03,DTC,Ice Cream,4/1/2024,3386240
+T_03,DTC,Chocolates,4/1/2024,1523808
+T_03,DTC,Gift Sets,4/1/2024,3555552
+T_03,DTC,Ice Cream,5/1/2024,3660800
+T_03,DTC,Chocolates,5/1/2024,1647360
+T_03,DTC,Gift Sets,5/1/2024,3843840
+T_03,DTC,Ice Cream,6/1/2024,3843840
+T_03,DTC,Chocolates,6/1/2024,1729728
+T_03,DTC,Gift Sets,6/1/2024,4036032
+T_03,DTC,Ice Cream,7/1/2024,4026880
+T_03,DTC,Chocolates,7/1/2024,1812096
+T_03,DTC,Gift Sets,7/1/2024,4228224
+T_03,DTC,Ice Cream,8/1/2024,6955520
+T_03,DTC,Chocolates,8/1/2024,3129984
+T_03,DTC,Gift Sets,8/1/2024,7303296
+T_03,DTC,Ice Cream,9/1/2024,6589440
+T_03,DTC,Chocolates,9/1/2024,2965248
+T_03,DTC,Gift Sets,9/1/2024,6918912
+T_03,DTC,Ice Cream,10/1/2024,3843840
+T_03,DTC,Chocolates,10/1/2024,1729728
+T_03,DTC,Gift Sets,10/1/2024,4036032
+T_03,DTC,Ice Cream,11/1/2024,7138560
+T_03,DTC,Chocolates,11/1/2024,3212352
+T_03,DTC,Gift Sets,11/1/2024,7495488
+T_03,DTC,Ice Cream,12/1/2024,7230080
+T_03,DTC,Chocolates,12/1/2024,3253536
+T_03,DTC,Gift Sets,12/1/2024,7591584
+O_03,DTC,Ice Cream,1/1/2024,15250560
+O_03,DTC,Chocolates,1/1/2024,11437920
+O_03,DTC,Gift Sets,1/1/2024,2639520
+O_03,DTC,Ice Cream,2/1/2024,14615120
+O_03,DTC,Chocolates,2/1/2024,10961340
+O_03,DTC,Gift Sets,2/1/2024,2529540
+O_03,DTC,Ice Cream,3/1/2024,15250560
+O_03,DTC,Chocolates,3/1/2024,11437920
+O_03,DTC,Gift Sets,3/1/2024,2639520
+O_03,DTC,Ice Cream,4/1/2024,15377648
+O_03,DTC,Chocolates,4/1/2024,11533236
+O_03,DTC,Gift Sets,4/1/2024,2661516
+O_03,DTC,Ice Cream,5/1/2024,15758912
+O_03,DTC,Chocolates,5/1/2024,11819184
+O_03,DTC,Gift Sets,5/1/2024,2727504
+O_03,DTC,Ice Cream,6/1/2024,17029792
+O_03,DTC,Chocolates,6/1/2024,12772344
+O_03,DTC,Gift Sets,6/1/2024,2947464
+O_03,DTC,Ice Cream,7/1/2024,17283968
+O_03,DTC,Chocolates,7/1/2024,12962976
+O_03,DTC,Gift Sets,7/1/2024,2991456
+O_03,DTC,Ice Cream,8/1/2024,23130016
+O_03,DTC,Chocolates,8/1/2024,17347512
+O_03,DTC,Gift Sets,8/1/2024,4003272
+O_03,DTC,Ice Cream,9/1/2024,22494576
+O_03,DTC,Chocolates,9/1/2024,16870932
+O_03,DTC,Gift Sets,9/1/2024,3893292
+O_03,DTC,Ice Cream,10/1/2024,16648528
+O_03,DTC,Chocolates,10/1/2024,12486396
+O_03,DTC,Gift Sets,10/1/2024,2881476
+O_03,DTC,Ice Cream,11/1/2024,24019632
+O_03,DTC,Chocolates,11/1/2024,18014724
+O_03,DTC,Gift Sets,11/1/2024,4157244
+O_03,DTC,Ice Cream,12/1/2024,34440848
+O_03,DTC,Chocolates,12/1/2024,25830636
+O_03,DTC,Gift Sets,12/1/2024,5960916

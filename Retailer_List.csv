@@ -1,0 +1,16 @@
+﻿Retail_ID,Brand,Region,Store Count
+W_01,Walmart,Canada,408
+C_01,Costco,Canada,109
+K_01,Metro,Canada,320
+T_01,Empire,Canada,1560
+O_01,Other Brands,Canada,343
+W_02,Walmart,Mexico,3007
+C_02,Costco,Mexico,41
+K_02,Oxxo,Mexico,22700
+T_02,Walgreens,Mexico,1010
+O_02,Other Brands,Mexico,1092
+W_03,Walmart,America,4599
+C_03,Costco,America,625
+K_03,Kroger,America,1261
+T_03,Target,America,1978
+O_03,Other Brands,America,2010
